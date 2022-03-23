@@ -1,2 +1,1 @@
-import './js/GameSavingLoader';
-import './js/GameSaving';
+import './js/app';
